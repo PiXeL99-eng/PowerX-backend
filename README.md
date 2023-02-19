@@ -39,7 +39,7 @@ How to set up the project locally:-
 
 Open the folder in any IDE , in the integrated terminal write the command given below to run the program . 
 ```sh
-   npn run start
+   npm run start
    ```
 Server starts at localhost:5500 
 
